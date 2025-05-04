@@ -1,3 +1,8 @@
+Note from me: i updates this fork so it has the newest discord game db, heres the url to it: https://discord.com/api/v8/applications/detectable
+ 
+ 
+ 
+ 
  <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19228318/202900211-95e8474b-edbb-4048-ba0b-a581a6d57fc4.png" width=300>
