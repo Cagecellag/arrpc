@@ -155318,6 +155318,11 @@
         "is_launcher": false,
         "name": "class_of_09-1.2/class_of_09.exe",
         "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "class_of_09.exe",
+        "os": "win32"
       }
     ],
     "hook": true,
