@@ -46406,6 +46406,11 @@
         "is_launcher": false,
         "name": "untitled goose game/untitled.exe",
         "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "untitled.exe",
+        "os": "win32"
       }
     ],
     "hook": true,
@@ -107162,6 +107167,11 @@
         "is_launcher": false,
         "name": "minecraft story mode - season two/minecraft2.exe",
         "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "minecraft2.exe",
+        "os": "win32"
       }
     ],
     "hook": true,
@@ -149163,6 +149173,11 @@
         "is_launcher": false,
         "name": "viewfinder/viewfinder.exe",
         "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "viewfinder.exe",
+        "os": "win32"
       }
     ],
     "hook": true,
@@ -153947,6 +153962,11 @@
       {
         "is_launcher": false,
         "name": "minecraft story mode - a telltale game series/minecraftstorymode.exe",
+        "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "minecraftstorymode.exe",
         "os": "win32"
       }
     ],
@@ -161741,6 +161761,11 @@
       {
         "is_launcher": false,
         "name": "windowkill/windowkill-vulkan.exe",
+        "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "windowkill-vulkan.exe",
         "os": "win32"
       }
     ],
@@ -175725,6 +175750,11 @@
       {
         "is_launcher": false,
         "name": "shapez 2/shapez 2.exe",
+        "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "shapez 2.exe",
         "os": "win32"
       }
     ],
@@ -193597,7 +193627,7 @@
     "executables": [
       {
         "is_launcher": false,
-        "name": "bongocat/bongocat.exe",
+        "name": "bongocat/nobongocat.exe",
         "os": "win32"
       }
     ],

@@ -1,5 +1,16 @@
 Note from me: i updates this fork so it has the newest discord game db, heres the url to it: https://discord.com/api/v8/applications/detectable
- 
+
+I made some updates to the detectables,
+removed [bongo cat](https://store.steampowered.com/app/3419430/Bongo_Cat/), (I didnt want it to show up all the damn time.)
+Added [changed special](https://store.steampowered.com/app/814540/Changed/) to changed, (added as "changed special/game.exe")
+Added [class of '09](https://store.steampowered.com/app/1443200/Class_of_09/) directory, (as "class_of_09.exe")
+Added minecraft sotry mode dir, (as "minecraftstorymode.exe")
+Added minecraft sotry mode S.2 dir, (as "minecraft2.exe")
+Added shapez 2 dir, (as "shapez 2.exe")
+Added Untitled Goose Game dir, (as "untitled.exe")
+Added Viewfinder dir, (as "viewfinder.exe")
+Added Windowkill dir, (as "windowkill-vulkan.exe")
+
  
  
  
