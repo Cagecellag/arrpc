@@ -43592,29 +43592,6 @@
         ]
     },
     {
-    "aliases": [],
-    "executables": [
-      {
-        "is_launcher": false,
-        "name": "deltarune/deltarune.exe",
-        "os": "win32"
-      }
-    ],
-    "hook": true,
-    "id": "1379852275454836837",
-    "name": "DELTARUNE",
-    "overlay": false,
-    "overlay_compatibility_hook": false,
-    "overlay_methods": null,
-    "overlay_warn": false,
-    "themes": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Mystery"
-        ]
-    },
-    {
         "aliases": [
             "PICO PARK"
         ],
@@ -198658,5 +198635,4524 @@
             "Science fiction",
             "Warfare"
         ]
-    }
+    },
+    {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "beholder conductor/beholderconductor.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368588414881890426",
+    "name": "Beholder: Conductor",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "letsplayoinkgames/letsplayoinkgames.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368603150977728643",
+    "name": "レッツプレイ！オインクゲームズ",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Party"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "badlandscrew/badlandscrew.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368633495403892869",
+    "name": "Badlands Crew",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "pizza frenzy/popcapgame1.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368633514857070662",
+    "name": "Pizza Frenzy",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "lunistice/lunistice.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368663554571370590",
+    "name": "Lunistice",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "citizen sleeper 2 starward vector/citizen sleeper 2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368678637758451822",
+    "name": "Citizen Sleeper 2: Starward Vector",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "used cars simulator/used cars simulator.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368724177229709444",
+    "name": "Used Cars Simulator",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Business"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "remastered/xwing95.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368739267492188240",
+    "name": "STAR WARS™: X-Wing Special Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "waifu closet/waifu closet.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368769221215129843",
+    "name": "Waifu Closet",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Erotic"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "2024 mosaic retrospective/retrospective 2024.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1368965848785752074",
+    "name": "2024: Mosaic Retrospective",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Historical",
+      "Comedy",
+      "Non-fiction",
+      "Educational"
+    ]
+  },
+  {
+    "aliases": [
+      "Level Unknown: Backrooms Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/levelunknown-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369094651100921876",
+    "name": "Level Unknown: Backrooms Demo",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Nextbots In The Backrooms"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/nextbotsinbackrooms.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369111479403417711",
+    "name": "Nextbots In The Backrooms",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Horror",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [
+      "The Labyrinth"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "the labyrinth/the labyrinth.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369112419091349604",
+    "name": "The Labyrinth",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Waifu"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "waifu/waifu.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369114448819912705",
+    "name": "Waifu - Kawaii Idler & Clicker",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Waifu"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "windows/waifu.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369114520760484000",
+    "name": "Waifu",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Retro Rally Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "retro rally demo/retrorally.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369118091694313532",
+    "name": "Retro Rally",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [
+      "The Other Side"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/theotherside-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369121049416958013",
+    "name": "The Other Side",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [
+      "KALPA Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "kalpa cosmicsymphony/kalpa cosmicsymphony.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369122529561542656",
+    "name": "KALPA: Cosmic Symphony",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [
+      "OBSCURA"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "obscura/obscura.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369126921983627295",
+    "name": "OBSCURA",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Romance"
+    ]
+  },
+  {
+    "aliases": [
+      "Campervan Simulator Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/campervansimulator-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369127664715169922",
+    "name": "Caravanners: Co-op Open World Camping",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "CYGNI Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/cygni-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369128205935443996",
+    "name": "CYGNI: All Guns Blazing",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [
+      "Deathless. Tales of Old Rus"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "deathless tales of old rus/deathless.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369131471935377489",
+    "name": "Deathless. The Hero Quest",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Deathless"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "deathless/deathless.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369131830288322601",
+    "name": "Deathless",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [
+      "Cards!"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cards!/cards!.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369132609246072852",
+    "name": "Cards!",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Submerged: Hidden Depths"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/submerged.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369134953144651846",
+    "name": "Submerged: Hidden Depths",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Kids"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "i am cat/iamcat.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369282599717048498",
+    "name": "I Am Cat",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Comedy",
+      "Sandbox"
+    ]
+  },
+  {
+    "aliases": [
+      "Maestro"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/maestro-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369446885601054750",
+    "name": "Maestro",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Red Chaos - The Strict Order"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "red chaos - the strict order/red chaos the strict order.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369490199741993050",
+    "name": "Red Chaos - The Strict Order",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Emoji Clicker Collector"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "emojicc/emojicc.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369491566028128377",
+    "name": "Emoji Clicker Collector",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "FleshBound"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/speeddemon-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369492632329392158",
+    "name": "FleshBound",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Horror"
+    ]
+  },
+  {
+    "aliases": [
+      "Hidden Through Time 2"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "hidden through time 2/htt2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369495866599276634",
+    "name": "Hidden Through Time 2: Myths & Magic",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy",
+      "Comedy",
+      "Sandbox",
+      "Educational",
+      "Kids"
+    ]
+  },
+  {
+    "aliases": [
+      "PUBG: BLINDSPOT Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/arcclient-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369497196075941898",
+    "name": "PUBG: BLINDSPOT",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [
+      "Taora"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "taora/taora survival.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369502173104443533",
+    "name": "Taora : Survival",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Kao the Kangaroo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/kao-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369503492879683745",
+    "name": "Kao the Kangaroo",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Bridge Constructor: The Walking Dead"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "bridge constructor the walking dead/bc_twd.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369504454356766801",
+    "name": "Bridge Constructor: The Walking Dead",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Sandbox"
+    ]
+  },
+  {
+    "aliases": [
+      "FOF Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/chmvp-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369505624286826617",
+    "name": "FEAR OF FAITH",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Cats and Seek"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cats and seek at dino park/cats and seek at dino park.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369530754916417556",
+    "name": "Cats and Seek: Dino Park",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Comedy",
+      "Kids"
+    ]
+  },
+  {
+    "aliases": [
+      "Cats and Seek: Toge Land"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cats and seek toge land/cats and seek togeland.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369532202731311134",
+    "name": "Cats and Seek: Toge Land",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Redout: Enhanced Edition"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/redout-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369533822911119400",
+    "name": "Redout: Enhanced Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [
+      "Firework"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "firework/game.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369535688369770577",
+    "name": "Firework",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Abyss"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/abyss-win64-shipping.exe",
+        "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "abyssonline/abyss.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369537316162506822",
+    "name": "Abyss",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Rose"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/rose-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369537858557182053",
+    "name": "Rose",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [
+      "Take Me"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/takeme.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369538270375182376",
+    "name": "Take Me, Vitaly",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Shin Megami Tensei III Nocturne HD Remaster"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "smt3hd/smt3hd.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369538821041029121",
+    "name": "Shin Megami Tensei III Nocturne HD Remaster",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "among us 3d/amongus3d.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369539306762534932",
+    "name": "Among Us 3D",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [
+      "Night Run"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "night run/nightrun.exe",
+        "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "nightrun3d2gw/nightrun.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369539617463865406",
+    "name": "Night Run",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Asleep"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "asleep/asleep.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369540045303840789",
+    "name": "Asleep - Ato 1",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Airborne"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "airborne files/airborne.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369540857983664128",
+    "name": "Airborne",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [
+      "Slider"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "slider/slider.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369547252049383424",
+    "name": "Slider",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  {
+    "aliases": [
+      "THRESHOLD"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/threshold-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369547438095994941",
+    "name": "THRESHOLD",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Horror",
+      "Survival",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [
+      "Coffee Break"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/spacecoffeen-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369547855475507221",
+    "name": "Coffee Break",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "AIMX"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/aimx1.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369548247345139712",
+    "name": "AIMX",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [
+      "Q.U.B.E. 10th Anniversary"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/qube_remastered-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369549284168568934",
+    "name": "Q.U.B.E. 10th Anniversary",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [
+      "Shop Simulator Demo"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "shop simulator - supermarket demo/shop simulator - supermarket.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369549799732281485",
+    "name": "Shop Simulator: Supermarket",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Business",
+      "Educational"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/dropduchy-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369675248571645962",
+    "name": "Drop Duchy",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "mini settlers/mini settlers.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369675250354229248",
+    "name": "Mini Settlers",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Sandbox"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "wee tanks/wee tanks.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369690314893164756",
+    "name": "Wee Tanks!",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Kids",
+      "Party"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "gogh focus with your avatar/gogh.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369705612165906432",
+    "name": "gogh: Focus with Your Avatar",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "desktop garage kit/desktop garage kit.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369796004806787202",
+    "name": "Desktop Garage Kit",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "farlands/farlands.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369811093886599298",
+    "name": "Farlands",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "chaos;head noah/game_steam.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369886585188913192",
+    "name": "CHAOS;HEAD NOAH",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Horror"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/fifthgrader-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1369886594139553955",
+    "name": "Are You Smarter than a 5th Grader?",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Educational",
+      "Kids",
+      "Party"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "geoguessr duels/geoguessr.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370007372252184657",
+    "name": "GeoGuessr Steam Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sirocco/sirocco.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370052669636612107",
+    "name": "Sirocco",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "senrenbanka/senrenbanka.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370067773572648970",
+    "name": "千恋＊万花",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy",
+      "Erotic",
+      "Romance"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "the hundred line -last defense academy-/hundred_line.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370158379212865727",
+    "name": "The Hundred Line -Last Defense Academy-",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Science fiction",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cinema simulator 2025/cinema simulator 2025.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370158390575235215",
+    "name": "Cinema Simulator 2025",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "lumberjacked!/lumberjacked.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370294259865096223",
+    "name": "Lumberjacked",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cornerpond/cornerpond.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370339553033977938",
+    "name": "Cornerpond",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "speedway challenge 2025/sc25.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370399966694084689",
+    "name": "Speedway Challenge 2025",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "thepriceofflesh-market/thepriceofflesh.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370505696722026506",
+    "name": "The Price Of Flesh",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/cashcleanersim-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370520906992062555",
+    "name": "Cash Cleaner Simulator",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "citadelum/citadelum.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370520914957045861",
+    "name": "Citadelum",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Historical"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/arcticexpedition-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370566129193324674",
+    "name": "Project Hailstorm",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "samurai warriors 4 dx/samuraiwarriors4dx.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370581156797616148",
+    "name": "SAMURAI WARRIORS 4 DX",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Historical"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/deadzonesteam.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370762368723845120",
+    "name": "Deadzone Rogue",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction",
+      "Thriller"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "preserve/preserve.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370777468440412442",
+    "name": "Preserve",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Kids"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sultan's game/sultan's game.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370792563359092958",
+    "name": "苏丹的游戏",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/yakisoba-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370807686324686948",
+    "name": "Starship Troopers: Extermination",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "easyanticheat/easyanticheat_eos_setup.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370913359506968617",
+    "name": "BattleBit Remastered",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sex and the furry titty 2/furry titty 2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370943538572824626",
+    "name": "Sex and the Furry Titty 2: Sins of the City",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/medieval-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1370958642806784090",
+    "name": "Swordsman VR",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Historical"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cycle idle rpg/cycle idle rpg.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1371003974324322324",
+    "name": "Cycle Idle RPG",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "harvest moon the winds of anthos/harvest moon the winds of anthos.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1371019209517305966",
+    "name": "Harvest Moon: The Winds of Anthos",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy",
+      "Business",
+      "Sandbox",
+      "Romance"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "survivalmachine/survivalmachine.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1371094617826660423",
+    "name": "Survival Machine",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Survival",
+      "Sandbox",
+      "Open world",
+      "4X (explore, expand, exploit, and exterminate)"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/cleaner-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1371124756392181891",
+    "name": "Cleaner Company: Prologue",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "everlusting life/everlusting life.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1371139885074878556",
+    "name": "Everlusting Life",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Erotic"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "tower dominion/tower-dominion.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1371487147340595382",
+    "name": "Tower Dominion",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "doomthedarkages/doomthedarkages.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1371653252600430622",
+    "name": "DOOM: The Dark Ages",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "the precinct/precinct.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1372060901598826587",
+    "name": "The Precinct",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Sandbox"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "jacksmith weapons and warriors/jacksmith.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1372604683646009344",
+    "name": "Jacksmith: Weapons and Warriors",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "nubs!/nubs!.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1372649812029341766",
+    "name": "Nubs!",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "disc golf valley/discgolf.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1372785704500854854",
+    "name": "Disc Golf Valley",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "deep space cache/deep space cache.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1372937101280018523",
+    "name": "DEEP SPACE CACHE",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/projecthonorclient.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1372982347250798612",
+    "name": "Legacy: Steel & Sorcery",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "metalthunder/metal thunder.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373033475497660456",
+    "name": "Metal Thunder",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "gacha girls united/gacha girls unite.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373057465834541166",
+    "name": "Gacha Girls United",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sailwind/sailwind.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373132964338339962",
+    "name": "Sailwind",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Survival",
+      "Sandbox",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "toolsus/final fantasy xi config.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373132965978181743",
+    "name": "FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "capcom fighting collection 2/capcomfightingcollection2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373148066412236930",
+    "name": "Capcom Fighting Collection 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "white shadows/whiteshadows.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373163168427151360",
+    "name": "White Shadows",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Horror",
+      "Survival",
+      "Stealth"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "windows-64/vangers.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373238667161636935",
+    "name": "Vangers",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "starvaders/starvaders.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373268861050163334",
+    "name": "StarVaders",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "blacksmith master/blacksmith master.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373283983797911654",
+    "name": "Blacksmith Master",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "prince of persia two thrones/princeofpersia.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373314183692812379",
+    "name": "Prince of Persia: The Two Thrones",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sunderfolk/sunderfolk.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373510458895503504",
+    "name": "Sunderfolk",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "project demigod/project demigod - early access.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373510461307355167",
+    "name": "Project Demigod",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Sandbox"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "meme mayhem/meme mayhem.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373631511223336990",
+    "name": "Meme Mayhem",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Comedy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/saltpeter-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373676575341547540",
+    "name": "Flintlock: The Siege of Dawn",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "optimized/cubicodysseysteam.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373736949948350484",
+    "name": "Cubic Odyssey",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "hentai furry 2/hentai furry 2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373812493151113266",
+    "name": "Hentai Furry 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Erotic"
+    ]
+  },
+  {
+    "aliases": [
+      "ファンタジーライフｉ グルグルの竜と時をぬすむ少女"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/nfl1-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1373872860409630791",
+    "name": "FANTASY LIFE i: The Girl Who Steals Time",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/castandspell-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374023845681303712",
+    "name": "Cast & Spell",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/dwuyourstepsister-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374220125783326732",
+    "name": "Don't Disturb Your STEPMOM",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/eville-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374340927111299113",
+    "name": "Eville",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Party",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "stalker shadow of chornobyl - ee/xrengine.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374401359561883648",
+    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "pc/roadcraft - retail.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374431527349391471",
+    "name": "RoadCraft",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/momgotstuck-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374431531203956736",
+    "name": "Mom got stuck in the washing machine",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "start again start again start again a prologue/nw.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374582514320019496",
+    "name": "START AGAIN: a prologue",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "lootun/lootun.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374673105921904691",
+    "name": "Lootun",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "gnomes/gnomes.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374794658370027650",
+    "name": "Gnomes",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "golden lap/goldenlap.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374809035882102965",
+    "name": "Golden Lap",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [
+      "Splitgate 2"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/portalwars2client-win64-shipping.exe",
+        "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "splitgate 2 playtest/launcher.exe",
+        "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "splitgate 2/launcher.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374812553909108889",
+    "name": "Splitgate 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "stalker call of prypiat - ee/xrengine.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374854322357141656",
+    "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/simulatorgame-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1374914742308573184",
+    "name": "Bakery Cafe Simulator: Prologue",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "monster train 2/monstertrain2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375095903123144794",
+    "name": "Monster Train 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sea salt/seasalt.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375186555874050209",
+    "name": "Sea Salt",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "dr3d/dr3d_streets2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375231803102855178",
+    "name": "Drag Racing 3D: Streets 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "warfare legacy collection/warfare.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375322544399323186",
+    "name": "Warfare Legacy Collection",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "fall of the stick knights/fall of stick knights.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375367688808955934",
+    "name": "Fall of the stick knights",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/boltgunwov-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375503775170695338",
+    "name": "Warhammer 40,000: Boltgun - Words of Vengeance",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/capstone.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375548917403615433",
+    "name": "shutterbuds",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Sandbox",
+      "Open world",
+      "Party"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/themidnightwalk-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375684797468246178",
+    "name": "The Midnight Walk",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy",
+      "Horror"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/thedevilinmetrial-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375745177825841253",
+    "name": "The Dark Pictures Anthology: The Devil in Me - Friend's Pass",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "stalker clear sky - ee/xrengine.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375790480809529345",
+    "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "furi demake/furidemake.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375790483955122217",
+    "name": "Furi Demake",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "9 kings/9kings.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375820768616648795",
+    "name": "9 Kings",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "bioprototype/bioprototype.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375866137530728498",
+    "name": "Bioprototype",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "glitched out/glitched_out.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375881110638039110",
+    "name": "Glitched Out",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Horror"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "soulsaveronline/soulsaver.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375896212573782108",
+    "name": "SoulSaverOnline",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/metalbringer-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375896224544329789",
+    "name": "Metal Bringer",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "build2/povcoop.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375911283026825487",
+    "name": "Повестка: Совместный побег",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "riot prolog/riot control simulator rookie day.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1375926404293853274",
+    "name": "Riot Control Simulator: Rookie Day",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "ultros/ultros.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376243568317825266",
+    "name": "Ultros",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "bore blasters/boreblasters.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376258627312292060",
+    "name": "BORE BLASTERS",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "broventure the wild co-op/broventure.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376273694514614382",
+    "name": "Broventure: The Wild Co-op",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win32/realboxing.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376288983008415784",
+    "name": "Real Boxing™",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "hackhub free trial/hackhub.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376303904786092173",
+    "name": "HackHub: Free Trial",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/forsaken-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376394766152892446",
+    "name": "Bleak Faith: Forsaken",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Horror",
+      "Survival",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "tinkerlands/tinkerlands.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376545481500659823",
+    "name": "Tinkerlands",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Survival",
+      "Sandbox",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "platina lab/platina lab.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376560575420567752",
+    "name": "PLATiNA :: LAB",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "rocket rats/rocket rats.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376726655556386878",
+    "name": "Rocket Rats",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "autorogue/autorogue.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376892785944301658",
+    "name": "オートローグ",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "madness cubed/build.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376922962577592380",
+    "name": "Madness Cubed",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Sandbox"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "client/cryofall_client.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376968268967055440",
+    "name": "CryoFall",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction",
+      "Survival",
+      "Sandbox",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "f1 25/f1_25.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1376968272905371698",
+    "name": "F1® 25",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "slayer-playground.app",
+        "os": "darwin"
+      }
+    ],
+    "hook": true,
+    "id": "1377010135989223574",
+    "name": "UV Slayer Playground",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "waifu shop/waifu shop.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377104167872626819",
+    "name": "Waifu Shop",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cauldron/cauldron.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377164552680112218",
+    "name": "Cauldron",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "vixen wars/vixenwars.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377300536327667814",
+    "name": "Vixen Wars",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Erotic"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "qop/qop.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377330639925153802",
+    "name": "qop",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "lumines remastered/lumines-remastered.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377421227223678976",
+    "name": "LUMINES REMASTERED",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "lmsr/lmsr_windows64_steam.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377693033998319708",
+    "name": "Lonely Mountains: Snow Riders",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Kids"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "typer shark deluxe/popcapgame1.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377723260786966609",
+    "name": "Typer Shark! Deluxe",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Educational"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "guilty as sock!/standalonewindows64.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377738371677552921",
+    "name": "Guilty as Sock!",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Comedy",
+      "Sandbox"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "mika/mika.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377753424741011526",
+    "name": "Mika and The Witch's Mountain",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Sandbox",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "game/nightreign.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377783621775130694",
+    "name": "ELDEN RING NIGHTREIGN",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Survival",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "tales of glory/talesofglory.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377798883782033429",
+    "name": "Tales Of Glory",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/lushfoilsim-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1377859123508674560",
+    "name": "Lushfoil Photography Sim",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "mini airways/miniairways.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378055677184049284",
+    "name": "Mini Airways",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/escapememoirssh-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378055683345485875",
+    "name": "Escape Memoirs: Safe House",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "miscrits/miscrits.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378085708996018286",
+    "name": "Miscrits: World of Creatures",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/cardealersimulator-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378115847737835580",
+    "name": "Car Dealer Simulator",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Business"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "pets hotel/pets hotel.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378146085746507907",
+    "name": "Pets Hotel",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Sandbox",
+      "Educational"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "lyca/lyca.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378161662212706334",
+    "name": "Lyca",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "aeon's end/aeonsend.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378176223150084137",
+    "name": "Aeon's End",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/toaster_reboot-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378206404179001424",
+    "name": "Toaster Arena",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "chicken police/chicken_police.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378221517850021958",
+    "name": "Chicken Police",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "space warlord organ trading simulator/space warlord organ trading simulator.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378236992541954109",
+    "name": "Space Warlord Organ Trading Simulator",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Science fiction",
+      "Horror",
+      "Business"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "lisc/lisc.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378297008884023477",
+    "name": "LISC",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "swords and soldiers 2/swords and soldiers 2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378372523208609852",
+    "name": "Swords and Soldiers 2 Shawarmageddon",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/sealracing-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378387757709262868",
+    "name": "Flipper Frenzy",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "kitchenwarsappetizer/kitchen wars.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378387773391765616",
+    "name": "Kitchen Wars: Appetiser",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "furry shades of gay 2/shades of gay 2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378508396189323365",
+    "name": "Furry Shades of Gay 2: A Shade Gayer",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/rocksimulator2-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378583905346785412",
+    "name": "Rock Simulator 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "level devil/level devil.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378719820991959050",
+    "name": "Level Devil",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Comedy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "fuel harvest together/fuel harvest together.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378719824947183636",
+    "name": "Fuel Harvest Together",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "classified france 44/classifiedfrance44.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1378916599142285445",
+    "name": "Classified: France '44",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Historical",
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "jr east train simulator/jreast_trainsimulator.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379052161165557811",
+    "name": "JR東日本トレインシミュレータ",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/sumo-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379082220719046798",
+    "name": "Sumo",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/bighelmetheroes-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379172830285135882",
+    "name": "Big Helmet Heroes",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Kids",
+      "Party"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "nice day for fishing/nicedayforfishing.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379218081787809945",
+    "name": "Nice Day for Fishing",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Comedy",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "miners settlement/miners settlement.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379248275705827380",
+    "name": "Miners Settlement",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "a story about farting/a story about farting.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379323842467598397",
+    "name": "A Story About Farting",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Comedy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "hellslave/hellslave.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379384345680416879",
+    "name": "Hellslave",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "tiny terry's turbo trip/tiny terry's turbo trip.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379384352583979091",
+    "name": "Tiny Terry's Turbo Trip",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "bloodshed/bloodshed.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379489870988185750",
+    "name": "Bloodshed",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Horror",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "noflash/noflash.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379535170964688986",
+    "name": "NoFlash",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "kingdom wars 2 definitive edition/kw2de.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379640869791203349",
+    "name": "Kingdom Wars 2: Definitive Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "deltarune/deltarune.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379852275454836837",
+    "name": "DELTARUNE",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/twa-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379882551270838293",
+    "name": "Truck World: Australia - First Haul",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/silclient-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1379897624710086687",
+    "name": "Reign of Guilds",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "might & magic x - legacy/might and magic x legacy.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380063642652905482",
+    "name": "Might & Magic X - Legacy",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/dunesandbox_be.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380199615709712405",
+    "name": "Dune: Awakening",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Survival",
+      "Open world"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/anvil-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380244914855612657",
+    "name": "Anvil Empires - Massive Battle Stress Test",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "wallpaper_play/wallpaperplay.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380365648701427712",
+    "name": "Wallpaper Play",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "duck detective the ghost of glamping/duck detective - the ghost of glamping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380365652459524107",
+    "name": "Duck Detective: The Ghost of Glamping",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Comedy",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "pepper grinder/peppergrinder.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380380737076723814",
+    "name": "Pepper Grinder",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "fight angelse/fightangelse.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380441137671573544",
+    "name": "Fight Angel Special Edition",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Erotic"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/thunderhorseclient-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380562099457232976",
+    "name": "Equinox: Homecoming",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Drama",
+      "Open world",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [
+      "Starlight Re:Volver"
+    ],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "starlight revolver demo/halcyondive.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380591738238013440",
+    "name": "Starlight Re:Volver",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "the grey dream/thegreydream.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380622381671780473",
+    "name": "The Grey Dream",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Erotic"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "blackjack 21 blackjackist/blackjack.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380637441701974136",
+    "name": "Blackjack 21: Blackjackist",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "shattered minds/shattered_minds.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380652577938477126",
+    "name": "Shattered Minds",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "off demo/off.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380652580727820489",
+    "name": "OFF Prologue",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "yu-gi-oh! early days collection/yugioh_early_days_collection.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380667739122962472",
+    "name": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "deep sleep trilogy/deepsleep.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380743108769087588",
+    "name": "Deep Sleep Trilogy",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Horror",
+      "Mystery"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "void war/void war.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380773313651146783",
+    "name": "Void War",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/projecttag-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1380924455039271063",
+    "name": "Hamster Hustle",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "cyber knights flashpoint/cyberknights.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381014975312564335",
+    "name": "Cyber Knights: Flashpoint",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "wrestlequest/wrestlequest.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381045115338100827",
+    "name": "WrestleQuest",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "windjammers 2/windjammers2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381090405331767406",
+    "name": "Windjammers 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sex and the furry titty 3/sex and the furry titty 3.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381135699486445642",
+    "name": "Sex and the Furry Titty 3: Come Inside, Sweety",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  }
 ]
