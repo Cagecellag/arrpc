@@ -52595,6 +52595,11 @@
         "is_launcher": false,
         "name": "changed/game.exe",
         "os": "win32"
+      },
+      {
+        "is_launcher": false,
+        "name": "changed special/game.exe",
+        "os": "win32"
       }
     ],
     "hook": true,
