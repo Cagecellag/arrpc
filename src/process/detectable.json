@@ -203345,5 +203345,149 @@
     "overlay_methods": null,
     "overlay_warn": false,
     "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "patrician iii/p3setup.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381196180213469204",
+    "name": "Patrician III",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "train driver 2/traindriver2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381347118211665940",
+    "name": "Train Driver 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "golf peaks/golf peaks.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381437735331561522",
+    "name": "Golf Peaks",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "urban jungle/urbanjungle.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381467898756989028",
+    "name": "Urban Jungle",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "thebobateashop/the boba teashop.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381467901831282698",
+    "name": "The Boba Teashop",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "kabuto park/kabutopark.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381498110215458918",
+    "name": "Kabuto Park",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "windows-i686/arcadespirits.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381498113990332557",
+    "name": "Arcade Spirits",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "01spacecalibrator/spacecalibrator.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381543400020381776",
+    "name": "Space Calibrator",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
   }
 ]
