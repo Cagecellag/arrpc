@@ -203489,5 +203489,468 @@
     "overlay_methods": null,
     "overlay_warn": false,
     "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "warborne/warborne.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381649096766652527",
+    "name": "Warborne Above Ashes (Demo)",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy",
+      "Science fiction",
+      "Warfare"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/nebulaclient-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381709506140049538",
+    "name": "Wildgate - Open Beta",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/snacko-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381815228504871023",
+    "name": "Snacko",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "gorn2/gorn2.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381830270566666300",
+    "name": "GORN 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "vrcfacetracking/vrcfacetracking.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1381860492276142091",
+    "name": "VRCFaceTracking",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/projecthermes-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1382087070142562354",
+    "name": "WHAT THE PAK?!",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "poco/poco.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1382540093637787748",
+    "name": "Poco",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Fantasy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/sb-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1382615456007061514",
+    "name": "Stellar Blade™",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "monster care simulator/monster care simulator.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1382660784471150693",
+    "name": "Monster Care Simulator",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Business"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "placid plastic desktop/placid plastic desktop.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1382796692533022820",
+    "name": "Placid Plastic Desktop",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/rocksimulator-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1382872170795110490",
+    "name": "Rock Simulator",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Comedy"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/fnaf_sotm-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383143955398656190",
+    "name": "Five Nights at Freddy's: Secret of the Mimic",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action",
+      "Horror"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "academy love saga tennis angels ex/tennis angels ex.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383159054192349427",
+    "name": "Academy Love Saga: Tennis Angels EX",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Erotic"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "exploding kittens 2/explodingkittens.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383219581287665684",
+    "name": "Exploding Kittens® 2",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Action"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/thealters-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383279961032495224",
+    "name": "The Alters",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": [
+      "Science fiction",
+      "Survival"
+    ]
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/spyfall-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383325126073782292",
+    "name": "SpyFall",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "win64/mindseye-win64-shipping.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383355359573446737",
+    "name": "MindsEye",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "none shall intrude/nsi.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383385525641281578",
+    "name": "None Shall Intrude",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "manosaba_demo/manosaba.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383430846886842418",
+    "name": "魔法少女ノ魔女裁判 死遊体験版",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "minutescape/minutescape.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383491252892340375",
+    "name": "Minutescape",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "sol cesto/solcesto.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383506368547524720",
+    "name": "Sol Cesto",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "g-force/gforce.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383506371810430986",
+    "name": "G-Force",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "camper van make it home/campervanmakeithome.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383566784103317625",
+    "name": "Camper Van: Make it Home",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
+  },
+  {
+    "aliases": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "shadowversewb/shadowversewb.exe",
+        "os": "win32"
+      }
+    ],
+    "hook": true,
+    "id": "1383672437505396917",
+    "name": "Shadowverse: Worlds Beyond",
+    "overlay": false,
+    "overlay_compatibility_hook": false,
+    "overlay_methods": null,
+    "overlay_warn": false,
+    "themes": []
   }
 ]
