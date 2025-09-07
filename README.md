@@ -8,10 +8,11 @@ Added [Class of '09: The Re-Up](https://store.steampowered.com/app/2318310/Class
 Added [Class of '09: The Flip Side](https://store.steampowered.com/app/2757330/Class_of_09_The_Flip_Side/) directory, (as "c09fs.exe")
 Added minecraft sotry mode dir, (as "minecraftstorymode.exe")
 Added minecraft sotry mode S.2 dir, (as "minecraft2.exe")
-Added shapez 2 dir, (as "shapez 2.exe")
-Added Untitled Goose Game dir, (as "untitled.exe")
-Added Viewfinder dir, (as "viewfinder.exe")
-Added Windowkill dir, (as "windowkill-vulkan.exe")
+Added [shapez 2](https://store.steampowered.com/app/2162800/shapez_2/) dir, (as "shapez 2.exe")
+Added [Untitled Goose](https://store.steampowered.com/app/837470/Untitled_Goose_Game/) Game dir, (as "untitled.exe")
+Added [Viewfinder](https://store.steampowered.com/app/1382070/Viewfinder/) dir, (as "viewfinder.exe")
+Added [Windowkill](https://store.steampowered.com/app/2726450/Windowkill/) dir, (as "windowkill-vulkan.exe") 
+Added [Hollow Knight Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/) dir, (as "hollow knight silksong.exe")
 
  
  
