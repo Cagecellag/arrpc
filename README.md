@@ -1,4 +1,4 @@
-Note from me: i updates this fork so it has the newest discord game db *9. june 2025*, heres the url to it: https://discord.com/api/v8/applications/detectable
+Note from me: i updates this fork so it has the newest discord game db 10. September 2025*, heres the url to it: https://discord.com/api/v8/applications/detectable
 
 I made some updates to the detectables,
 removed [bongo cat](https://store.steampowered.com/app/3419430/Bongo_Cat/), (I didnt want it to show up all the damn time.)
