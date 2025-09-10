@@ -13,6 +13,7 @@ Added [Untitled Goose](https://store.steampowered.com/app/837470/Untitled_Goose_
 Added [Viewfinder](https://store.steampowered.com/app/1382070/Viewfinder/) dir, (as "viewfinder.exe")
 Added [Windowkill](https://store.steampowered.com/app/2726450/Windowkill/) dir, (as "windowkill-vulkan.exe") 
 Added [Hollow Knight Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/) dir, (as "hollow knight silksong.exe")
+Added [Hollow Knight Silksong](https://store.steampowered.com/app/367520/Hollow_Knight/) dir, (as "Hollow Knight/hollow_knight.exe")
 
  
  

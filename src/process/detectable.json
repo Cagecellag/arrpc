@@ -4390,6 +4390,11 @@
                 "is_launcher": false,
                 "name": "hollow_knight.exe",
                 "os": "win32"
+            },
+            {
+                "is_launcher": false,
+                "name": "Hollow Knight/hollow_knight.exe",
+                "os": "win32"
             }
         ],
         "hook": true,
