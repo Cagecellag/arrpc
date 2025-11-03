@@ -428,7 +428,7 @@
             {
                 "arguments": "-game tf",
                 "is_launcher": false,
-                "name": ">hl2.exe",
+                "name": "Team Fortress 2/hl2.exe",
                 "os": "win32"
             }
         ],
@@ -1643,7 +1643,7 @@
             {
                 "arguments": "-game hl2",
                 "is_launcher": false,
-                "name": ">hl2.exe",
+                "name": "Half-Life 2/hl2.exe",
                 "os": "win32"
             }
         ],
