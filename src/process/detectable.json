@@ -1643,7 +1643,7 @@
             {
                 "arguments": "-game hl2",
                 "is_launcher": false,
-                "name": "Half-Life 2/hl2.exe",
+                "name": "hl2.exe",
                 "os": "win32"
             }
         ],
