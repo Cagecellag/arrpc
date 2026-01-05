@@ -246362,13 +246362,7 @@
   {
     "aliases": [],
     "cover_image_hash": "f8f6cbb56b3d89a49f0e93f0584f3743",
-    "executables": [
-      {
-        "is_launcher": false,
-        "name": "win64/trainsimworld.exe",
-        "os": "win32"
-      }
-    ],
+    "executables": [],
     "hook": true,
     "icon_hash": "d26a43c81a26bb94afbfc14344dfffc8",
     "id": "1175903388228124672",
@@ -579525,7 +579519,13 @@
   {
     "aliases": [],
     "cover_image_hash": "4364fa64d4816bf38143e50a7e2c0a20",
-    "executables": [],
+    "executables": [
+      {
+        "is_launcher": false,
+        "name": "Win64/TrainSimWorld.exe",
+        "os": "win32"
+      }
+    ],
     "hook": true,
     "icon_hash": "7c8337614f307e4483827980416ebc5b",
     "id": "1445221191941099520",
